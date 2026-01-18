@@ -37,7 +37,7 @@ export default function HomePage() {
         </motion.div>
       </nav>
 
-      {/* Hero Section */}
+      {/* Hero Sectionj*/}
       <main className="max-w-7xl mx-auto px-6 py-20">
         <div className="text-center space-y-8">
           <motion.div
@@ -84,7 +84,7 @@ export default function HomePage() {
           </motion.div>
         </div>
 
-        {/* Features Grid */}
+        {/* features Grid */}
         <motion.div
           initial={{ opacity: 0, y: 40 }}
           animate={{ opacity: 1, y: 0 }}
