@@ -1,10 +1,12 @@
 "use client"
+// txs file for the project
 
 import { motion } from "framer-motion"
 import { Play, Sparkles, Zap, Target, ArrowRight } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import Link from "next/link"
 
+// exporting the default function
 export default function HomePage() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-purple-50 via-white to-blue-50">
